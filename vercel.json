@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/timestamp_editor.html" }
+  ]
+}
